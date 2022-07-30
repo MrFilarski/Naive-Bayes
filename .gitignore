@@ -1,6 +1,4 @@
 
-.idea/discord.xml
-.idea/csv-plugin.xml
+.idea
 *.pyc
 *.xml
-.idea/Naiwny-Bayes.iml
