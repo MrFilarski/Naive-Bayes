@@ -1,0 +1,10 @@
+Mammal ,True  ,	True ,	True
+Mammal ,True  ,	True ,	True
+Reptile,True  ,	True ,	False
+Mammal ,False ,	True ,	True
+Mammal ,True  ,	True ,	True
+Mammal ,True  ,	True ,	True
+Reptile,	False,	False,	Reptile
+Reptile,	True ,	False,	Reptile
+Mammal ,True  ,	True ,	True
+Reptile,False ,	False,	True
