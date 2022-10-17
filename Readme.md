@@ -1,4 +1,6 @@
-Naive Bayes
+# Naive Bayes
+
+## Intro
 
 The aim is to classify the mushrooms from the agaricus-lepiota.data collection (source) as
 poisonous (class p) or edible (class e) using the Naive classifier
@@ -10,7 +12,7 @@ The program should list the accuracy, precision, completeness, and F-measure.
 
 
 
-Naiwny Bayes
+## Wrowadzenie
 
 Celem jest zaklasyfikowanie grzybów ze zbioru agaricus-lepiota.data (źródło) jako
 trujące (poisonous - klasa p) lub jadalne (edible - klasa e) przy użyciu klasyfikatora Naive
